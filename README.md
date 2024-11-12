@@ -2,7 +2,7 @@
 
 ### My projects:
 
-eshkere.cc - Gaming servers in Rust, Gmod, Minecraft, and other games.
+[eshkere.cc](https://eshkere.cc) - Gaming servers in Rust, Gmod, Minecraft, and other games.
 
 ### What i use:
 
