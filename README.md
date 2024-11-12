@@ -15,4 +15,4 @@
 ![badge](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 ### Now Playing:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cxsj4cdjwkxrfme65vpkbvqjge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cxsj4cdjwkxrfme65vpkbvqjge&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=b14e76&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cxsj4cdjwkxrfme65vpkbvqjge&redirect=true)
