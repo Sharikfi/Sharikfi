@@ -7,7 +7,7 @@
 ## 🚀 Featured Project
 
 ### Eshkere.cc - Game Autodonation Platform
-[![Live Project](https://img.shields.io/badge/LIVE_DEMO-eshkere.cc-FF6C37?style=for-the-badge)](https://eshkere.cc)
+[![Live Project](https://img.shields.io/badge/LIVE_PROJECT-eshkere.cc-FF6C37?style=for-the-badge)](https://eshkere.cc)
 
 Cross-game donation system with features:
 - Real-time payment processing
@@ -24,6 +24,7 @@ Cross-game donation system with features:
 ## 🛠 Tech Stack
 
 ### Frontend
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
